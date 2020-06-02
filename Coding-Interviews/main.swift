@@ -8,5 +8,6 @@
 
 
 //let solution = Solution().findRepeatNumber([2, 3, 1, 0, 2, 5, 3])
-let solution = Solution().findNumberIn2DArray([[-5]], -5)
+//let solution = Solution().findNumberIn2DArray([[-5]], -5)
+let solution = Solution().replaceSpace("We are happy.")
 print(solution)
