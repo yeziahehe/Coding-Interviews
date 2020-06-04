@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C477CF42484DCBB003B179E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C477CF32484DCBB003B179E /* main.swift */; };
-		2C8AED032488986400676F5C /* 10- I. 斐波那契数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8AED022488986400676F5C /* 10- I. 斐波那契数列.swift */; };
+		2C8AED0524889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8AED0424889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +33,7 @@
 		2C8AECFE248888FD00676F5C /* 07. 重建二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07. 重建二叉树.swift"; sourceTree = "<group>"; };
 		2C8AED00248894A200676F5C /* 09. 用两个栈实现队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "09. 用两个栈实现队列.swift"; sourceTree = "<group>"; };
 		2C8AED022488986400676F5C /* 10- I. 斐波那契数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10- I. 斐波那契数列.swift"; sourceTree = "<group>"; };
+		2C8AED0424889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10- II. 青蛙跳台阶问题.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +74,7 @@
 				2C8AECFE248888FD00676F5C /* 07. 重建二叉树.swift */,
 				2C8AED00248894A200676F5C /* 09. 用两个栈实现队列.swift */,
 				2C8AED022488986400676F5C /* 10- I. 斐波那契数列.swift */,
+				2C8AED0424889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift */,
 			);
 			path = "Coding-Interviews";
 			sourceTree = "<group>";
@@ -135,8 +137,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C8AED032488986400676F5C /* 10- I. 斐波那契数列.swift in Sources */,
 				2C477CF42484DCBB003B179E /* main.swift in Sources */,
+				2C8AED0524889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
