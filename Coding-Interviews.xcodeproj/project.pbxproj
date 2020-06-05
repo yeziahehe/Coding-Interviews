@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C477CF42484DCBB003B179E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C477CF32484DCBB003B179E /* main.swift */; };
-		2C8AED0524889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8AED0424889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift */; };
+		2CCD95F22489E864002708B1 /* 11. 旋转数组的最小数字 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCD95F12489E864002708B1 /* 11. 旋转数组的最小数字 .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +34,7 @@
 		2C8AED00248894A200676F5C /* 09. 用两个栈实现队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "09. 用两个栈实现队列.swift"; sourceTree = "<group>"; };
 		2C8AED022488986400676F5C /* 10- I. 斐波那契数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10- I. 斐波那契数列.swift"; sourceTree = "<group>"; };
 		2C8AED0424889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10- II. 青蛙跳台阶问题.swift"; sourceTree = "<group>"; };
+		2CCD95F12489E864002708B1 /* 11. 旋转数组的最小数字 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. 旋转数组的最小数字 .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 				2C8AED00248894A200676F5C /* 09. 用两个栈实现队列.swift */,
 				2C8AED022488986400676F5C /* 10- I. 斐波那契数列.swift */,
 				2C8AED0424889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift */,
+				2CCD95F12489E864002708B1 /* 11. 旋转数组的最小数字 .swift */,
 			);
 			path = "Coding-Interviews";
 			sourceTree = "<group>";
@@ -138,7 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C477CF42484DCBB003B179E /* main.swift in Sources */,
-				2C8AED0524889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift in Sources */,
+				2CCD95F22489E864002708B1 /* 11. 旋转数组的最小数字 .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
