@@ -39,8 +39,11 @@ import Foundation
 
 class Solution {
     // DFS+剪枝
+    var board: [[Character]] = []
+    var word: String = ""
     func exist(_ board: [[Character]], _ word: String) -> Bool {
-        var board = board
+        self.board = board
+        self.word = word
         for i in 0..<board.count {
             for j in 0..<board[0].count {
                 if dfs(&board, word, i, j, 0) {
@@ -51,7 +54,7 @@ class Solution {
         return false
     }
     
-    func dfs(_ board: inout [[Character]], _ word: String, _ i: Int, _ j: Int, _ k: Int) -> Bool {
+    func dfs(_ i: Int, _ j: Int, _ k: Int) -> Bool {
         // 终止条件 返回 false
         // ① 行或列索引越界 或 ② 当前矩阵元素与目标字符不同 或 ③ 当前矩阵元素已访问过
         if i < 0 || i >= board.count || j < 0 || j >= board[0].count || board[i][j] != Array(word)[k] {
