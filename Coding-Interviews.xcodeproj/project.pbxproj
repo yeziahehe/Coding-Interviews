@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C477CF42484DCBB003B179E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C477CF32484DCBB003B179E /* main.swift */; };
-		2CCD95F42489EDFD002708B1 /* 12. 矩阵中的路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCD95F32489EDFD002708B1 /* 12. 矩阵中的路径.swift */; };
+		2C550216248BE68200CA6596 /* 13. 机器人的运动范围.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C550215248BE68200CA6596 /* 13. 机器人的运动范围.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +28,7 @@
 		2C477CF32484DCBB003B179E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		2C4839102484ECD600422F1F /* 03. 数组中重复的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "03. 数组中重复的数字.swift"; sourceTree = "<group>"; };
 		2C4839122484F5AF00422F1F /* 04. 二维数组中的查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04. 二维数组中的查找.swift"; sourceTree = "<group>"; };
+		2C550215248BE68200CA6596 /* 13. 机器人的运动范围.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. 机器人的运动范围.swift"; sourceTree = "<group>"; };
 		2C8AECFA2486917400676F5C /* 05. 替换空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05. 替换空格.swift"; sourceTree = "<group>"; };
 		2C8AECFC2486952B00676F5C /* 06. 从尾到头打印链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06. 从尾到头打印链表.swift"; sourceTree = "<group>"; };
 		2C8AECFE248888FD00676F5C /* 07. 重建二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07. 重建二叉树.swift"; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 				2C8AED0424889DA200676F5C /* 10- II. 青蛙跳台阶问题.swift */,
 				2CCD95F12489E864002708B1 /* 11. 旋转数组的最小数字 .swift */,
 				2CCD95F32489EDFD002708B1 /* 12. 矩阵中的路径.swift */,
+				2C550215248BE68200CA6596 /* 13. 机器人的运动范围.swift */,
 			);
 			path = "Coding-Interviews";
 			sourceTree = "<group>";
@@ -141,7 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CCD95F42489EDFD002708B1 /* 12. 矩阵中的路径.swift in Sources */,
+				2C550216248BE68200CA6596 /* 13. 机器人的运动范围.swift in Sources */,
 				2C477CF42484DCBB003B179E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
