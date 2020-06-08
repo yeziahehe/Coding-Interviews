@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C477CF42484DCBB003B179E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C477CF32484DCBB003B179E /* main.swift */; };
-		2CC634E3248CBE60008FFF73 /* 15. 二进制中1的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC634E2248CBE60008FFF73 /* 15. 二进制中1的个数.swift */; };
+		2C86EBA8248DCAAF00205ACE /* 16. 数值的整数次方.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C86EBA7248DCAAF00205ACE /* 16. 数值的整数次方.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +30,7 @@
 		2C4839122484F5AF00422F1F /* 04. 二维数组中的查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04. 二维数组中的查找.swift"; sourceTree = "<group>"; };
 		2C550215248BE68200CA6596 /* 13. 机器人的运动范围.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. 机器人的运动范围.swift"; sourceTree = "<group>"; };
 		2C550217248BEEF400CA6596 /* 14- I. 剪绳子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14- I. 剪绳子.swift"; sourceTree = "<group>"; };
+		2C86EBA7248DCAAF00205ACE /* 16. 数值的整数次方.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16. 数值的整数次方.swift"; sourceTree = "<group>"; };
 		2C8AECFA2486917400676F5C /* 05. 替换空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05. 替换空格.swift"; sourceTree = "<group>"; };
 		2C8AECFC2486952B00676F5C /* 06. 从尾到头打印链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06. 从尾到头打印链表.swift"; sourceTree = "<group>"; };
 		2C8AECFE248888FD00676F5C /* 07. 重建二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07. 重建二叉树.swift"; sourceTree = "<group>"; };
@@ -87,6 +88,7 @@
 				2C550217248BEEF400CA6596 /* 14- I. 剪绳子.swift */,
 				2CC634E0248CBC92008FFF73 /* 14- II. 剪绳子 II.swift */,
 				2CC634E2248CBE60008FFF73 /* 15. 二进制中1的个数.swift */,
+				2C86EBA7248DCAAF00205ACE /* 16. 数值的整数次方.swift */,
 			);
 			path = "Coding-Interviews";
 			sourceTree = "<group>";
@@ -150,7 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C477CF42484DCBB003B179E /* main.swift in Sources */,
-				2CC634E3248CBE60008FFF73 /* 15. 二进制中1的个数.swift in Sources */,
+				2C86EBA8248DCAAF00205ACE /* 16. 数值的整数次方.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

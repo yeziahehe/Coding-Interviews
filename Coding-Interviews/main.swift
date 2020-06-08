@@ -12,5 +12,6 @@
 //let solution = Solution().replaceSpace("We are happy.")
 //let solution = Solution().minArray([3, 3, 1, 3])
 //let solution = Solution().movingCount(2, 3, 1)
-let solution = Solution().cuttingRope(10)
+//let solution = Solution().cuttingRope(10)
+let solution = Solution().myPow(2, 10)
 print(solution)
