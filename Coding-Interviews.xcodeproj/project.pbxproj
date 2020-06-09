@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C0EAD2B248FBEF7005A6785 /* 18. 删除链表的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C0EAD2A248FBEF7005A6785 /* 18. 删除链表的节点.swift */; };
 		2C477CF42484DCBB003B179E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C477CF32484DCBB003B179E /* main.swift */; };
-		2C86EBAA248DDC2800205ACE /* 17. 打印从1到最大的n位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C86EBA9248DDC2800205ACE /* 17. 打印从1到最大的n位数.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2C0EAD2A248FBEF7005A6785 /* 18. 删除链表的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18. 删除链表的节点.swift"; sourceTree = "<group>"; };
 		2C477CF02484DCBB003B179E /* Coding-Interviews */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Coding-Interviews"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C477CF32484DCBB003B179E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		2C4839102484ECD600422F1F /* 03. 数组中重复的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "03. 数组中重复的数字.swift"; sourceTree = "<group>"; };
@@ -91,6 +92,7 @@
 				2CC634E2248CBE60008FFF73 /* 15. 二进制中1的个数.swift */,
 				2C86EBA7248DCAAF00205ACE /* 16. 数值的整数次方.swift */,
 				2C86EBA9248DDC2800205ACE /* 17. 打印从1到最大的n位数.swift */,
+				2C0EAD2A248FBEF7005A6785 /* 18. 删除链表的节点.swift */,
 			);
 			path = "Coding-Interviews";
 			sourceTree = "<group>";
@@ -154,7 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C477CF42484DCBB003B179E /* main.swift in Sources */,
-				2C86EBAA248DDC2800205ACE /* 17. 打印从1到最大的n位数.swift in Sources */,
+				2C0EAD2B248FBEF7005A6785 /* 18. 删除链表的节点.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
