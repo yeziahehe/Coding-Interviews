@@ -14,5 +14,6 @@
 //let solution = Solution().movingCount(2, 3, 1)
 //let solution = Solution().cuttingRope(10)
 //let solution = Solution().myPow(2, 10)
-let solution = Solution().printNumbers(1)
+//let solution = Solution().printNumbers(1)
+let solution = Solution().exchange([1, 2, 3, 4])
 print(solution)
