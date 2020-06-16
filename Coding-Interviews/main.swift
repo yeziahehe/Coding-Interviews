@@ -15,5 +15,6 @@
 //let solution = Solution().cuttingRope(10)
 //let solution = Solution().myPow(2, 10)
 //let solution = Solution().printNumbers(1)
-let solution = Solution().exchange([1, 2, 3, 4])
+//let solution = Solution().exchange([1, 2, 3, 4])
+let solution = Solution().spiralOrder([[1,2,3],[4,5,6],[7,8,9]])
 print(solution)
