@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C477CF42484DCBB003B179E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C477CF32484DCBB003B179E /* main.swift */; };
-		2CFE235624989268004A749B /* 30. 包含min函数的栈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFE235524989268004A749B /* 30. 包含min函数的栈.swift */; };
+		2CFE235824989960004A749B /* 31. 栈的压入、弹出序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFE235724989960004A749B /* 31. 栈的压入、弹出序列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -54,6 +54,7 @@
 		2CFE235124986FDD004A749B /* 28. 对称的二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. 对称的二叉树.swift"; sourceTree = "<group>"; };
 		2CFE23532498768C004A749B /* 29. 顺时针打印矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. 顺时针打印矩阵.swift"; sourceTree = "<group>"; };
 		2CFE235524989268004A749B /* 30. 包含min函数的栈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. 包含min函数的栈.swift"; sourceTree = "<group>"; };
+		2CFE235724989960004A749B /* 31. 栈的压入、弹出序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. 栈的压入、弹出序列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +116,7 @@
 				2CFE235124986FDD004A749B /* 28. 对称的二叉树.swift */,
 				2CFE23532498768C004A749B /* 29. 顺时针打印矩阵.swift */,
 				2CFE235524989268004A749B /* 30. 包含min函数的栈.swift */,
+				2CFE235724989960004A749B /* 31. 栈的压入、弹出序列.swift */,
 			);
 			path = "Coding-Interviews";
 			sourceTree = "<group>";
@@ -177,7 +179,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CFE235624989268004A749B /* 30. 包含min函数的栈.swift in Sources */,
+				2CFE235824989960004A749B /* 31. 栈的压入、弹出序列.swift in Sources */,
 				2C477CF42484DCBB003B179E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
