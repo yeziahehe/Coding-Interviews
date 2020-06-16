@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C477CF42484DCBB003B179E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C477CF32484DCBB003B179E /* main.swift */; };
-		2CFE234E249869AA004A749B /* 26. 树的子结构.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFE234D249869AA004A749B /* 26. 树的子结构.swift */; };
+		2CFE235024986D8C004A749B /* 27. 二叉树的镜像.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFE234F24986D8C004A749B /* 27. 二叉树的镜像.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +50,7 @@
 		2CCD95F32489EDFD002708B1 /* 12. 矩阵中的路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. 矩阵中的路径.swift"; sourceTree = "<group>"; };
 		2CFE23472497A308004A749B /* 25. 合并两个排序的链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "25. 合并两个排序的链表.swift"; sourceTree = "<group>"; };
 		2CFE234D249869AA004A749B /* 26. 树的子结构.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26. 树的子结构.swift"; sourceTree = "<group>"; };
+		2CFE234F24986D8C004A749B /* 27. 二叉树的镜像.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. 二叉树的镜像.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +108,7 @@
 				2CA12AAE2491241D00F179C5 /* 24. 反转链表.swift */,
 				2CFE23472497A308004A749B /* 25. 合并两个排序的链表.swift */,
 				2CFE234D249869AA004A749B /* 26. 树的子结构.swift */,
+				2CFE234F24986D8C004A749B /* 27. 二叉树的镜像.swift */,
 			);
 			path = "Coding-Interviews";
 			sourceTree = "<group>";
@@ -170,7 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C477CF42484DCBB003B179E /* main.swift in Sources */,
-				2CFE234E249869AA004A749B /* 26. 树的子结构.swift in Sources */,
+				2CFE235024986D8C004A749B /* 27. 二叉树的镜像.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
