@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C477CF42484DCBB003B179E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C477CF32484DCBB003B179E /* main.swift */; };
-		2C7BC4312498BCF600877E6B /* 32 - III. 从上到下打印二叉树 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7BC4302498BCF600877E6B /* 32 - III. 从上到下打印二叉树 III.swift */; };
+		2CF37C372499BDBD002C638B /* 33. 二叉搜索树的后序遍历序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF37C362499BDBD002C638B /* 33. 二叉搜索树的后序遍历序列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +50,7 @@
 		2CC634E2248CBE60008FFF73 /* 15. 二进制中1的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 二进制中1的个数.swift"; sourceTree = "<group>"; };
 		2CCD95F12489E864002708B1 /* 11. 旋转数组的最小数字 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. 旋转数组的最小数字 .swift"; sourceTree = "<group>"; };
 		2CCD95F32489EDFD002708B1 /* 12. 矩阵中的路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. 矩阵中的路径.swift"; sourceTree = "<group>"; };
+		2CF37C362499BDBD002C638B /* 33. 二叉搜索树的后序遍历序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "33. 二叉搜索树的后序遍历序列.swift"; sourceTree = "<group>"; };
 		2CFE23472497A308004A749B /* 25. 合并两个排序的链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "25. 合并两个排序的链表.swift"; sourceTree = "<group>"; };
 		2CFE234D249869AA004A749B /* 26. 树的子结构.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26. 树的子结构.swift"; sourceTree = "<group>"; };
 		2CFE234F24986D8C004A749B /* 27. 二叉树的镜像.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. 二叉树的镜像.swift"; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 				2CFE235924989CFE004A749B /* 32 - I. 从上到下打印二叉树.swift */,
 				2C7BC42E2498B8CD00877E6B /* 32 - II. 从上到下打印二叉树 II.swift */,
 				2C7BC4302498BCF600877E6B /* 32 - III. 从上到下打印二叉树 III.swift */,
+				2CF37C362499BDBD002C638B /* 33. 二叉搜索树的后序遍历序列.swift */,
 			);
 			path = "Coding-Interviews";
 			sourceTree = "<group>";
@@ -185,8 +187,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C7BC4312498BCF600877E6B /* 32 - III. 从上到下打印二叉树 III.swift in Sources */,
 				2C477CF42484DCBB003B179E /* main.swift in Sources */,
+				2CF37C372499BDBD002C638B /* 33. 二叉搜索树的后序遍历序列.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
